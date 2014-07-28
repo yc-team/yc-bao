@@ -1,0 +1,33 @@
+{
+  "name": "yc-bao",
+  "version": "0.0.1",
+  "description": "this is a cli tool for yc bao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bao": "./bin/yc_bao"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/yc-bao.git"
+  },
+  "keywords": [
+    "yc",
+    "bao",
+    "tool"
+  ],
+  "dependencies": {
+    "async": "0.9.0",
+    "iconv-lite": "0.4.4",
+    "cheerio": "0.17.0",
+    "cli-table": "0.3.0",
+    "request": "2.36.0"
+  },
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/yc-bao/issues"
+  }
+}
