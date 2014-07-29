@@ -1,6 +1,6 @@
 {
   "name": "yc-bao",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "this is a cli tool for yc bao",
   "main": "index.js",
   "scripts": {
